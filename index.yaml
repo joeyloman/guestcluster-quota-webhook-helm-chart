@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  guestcluster-quota-webhook:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2024-12-24T14:43:43.038982+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 3758ba17184fe44db460427725a28fe267bb16c34b95fb432de92ba176049846
+    name: guestcluster-quota-webhook
+    type: application
+    urls:
+    - https://joeyloman.github.io/guestcluster-quota-webhook-helm-chart/guestcluster-quota-webhook-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-24T14:43:43.03839+01:00"
