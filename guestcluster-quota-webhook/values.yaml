@@ -62,5 +62,7 @@ guestclusterquotawebhook:
       value: DENY
   
   service:
-    webhookServicePort: 8080
+    webhookServicePort: 8443
     webhookListenPort: 8443
+    metricsServicePort: 8080
+    metricsListenPort: 8080
