@@ -66,3 +66,9 @@ guestclusterquotawebhook:
     webhookListenPort: 8443
     metricsServicePort: 8080
     metricsListenPort: 8080
+
+  kubevirtIpHelperIpReservations: []
+    # - clusterName: harvester-cluster1
+    #   networkNamespace: harvester-public
+    #   networkName: public-vlan-1
+    #   count: 10
