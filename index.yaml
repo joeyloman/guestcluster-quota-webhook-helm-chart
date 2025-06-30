@@ -2,8 +2,28 @@ apiVersion: v1
 entries:
   guestcluster-quota-webhook:
   - apiVersion: v2
+    appVersion: v0.6.1
+    created: "2025-06-30T09:23:00.359994+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 569198d5563ef43a117e0f2033408c1193e3e6107d8d03a6949233336fe99f80
+    name: guestcluster-quota-webhook
+    type: application
+    urls:
+    - https://joeyloman.github.io/guestcluster-quota-webhook-helm-chart/guestcluster-quota-webhook-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: v0.3.0
+    created: "2025-06-30T09:23:00.359515+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 001c1e4e4e62db5f6a3550cb2596d17b478698435b5040b19ada13ac32e97324
+    name: guestcluster-quota-webhook
+    type: application
+    urls:
+    - https://joeyloman.github.io/guestcluster-quota-webhook-helm-chart/guestcluster-quota-webhook-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: v0.1.0
-    created: "2024-12-24T14:43:43.038982+01:00"
+    created: "2025-06-30T09:23:00.356067+02:00"
     description: A Helm chart for Kubernetes
     digest: 3758ba17184fe44db460427725a28fe267bb16c34b95fb432de92ba176049846
     name: guestcluster-quota-webhook
@@ -11,4 +31,4 @@ entries:
     urls:
     - https://joeyloman.github.io/guestcluster-quota-webhook-helm-chart/guestcluster-quota-webhook-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-24T14:43:43.03839+01:00"
+generated: "2025-06-30T09:23:00.351608+02:00"
